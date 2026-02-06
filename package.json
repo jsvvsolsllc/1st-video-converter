@@ -1,0 +1,13 @@
+{
+  "name": "1st-video-converter",
+  "version": "1.0.0",
+  "description": "The first free browser-based video converter. Convert and compress videos without uploading — everything runs locally.",
+  "homepage": "https://1stvideoconverter.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/1st-video-converter"
+  },
+  "keywords": ["video-converter","first-video-converter","free-converter","browser-video","video-tools"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
